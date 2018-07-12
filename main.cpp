@@ -1,8 +1,3 @@
-// TODO - Show win animation
-// TODO - Implement game logic
-// TODO - Read buttons
-// TODO - Create Folder (GameLogic, Input)
-
 #define F_CPU 16000000UL // 16 MHz
 
 #include <util/delay.h>
